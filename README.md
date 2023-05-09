@@ -7,9 +7,9 @@ This project's primary goal is to build a new set of tools that will allow the U
 
 To run the app:
 
-Git clone- git@github.com/adampaganini/Earthquake_Challenge.git
-CD into directory- Earthquake_Challenge
-Open index.html and follow port 5500 to local host in browser.
+- Git clone- git@github.com/adampaganini/Earthquake_Challenge.git
+- CD into directory- Earthquake_Challenge
+- Open index.html and follow port 5500 to local host in browser.
 
 Credits:
 Geological survey data
