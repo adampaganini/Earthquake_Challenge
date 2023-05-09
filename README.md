@@ -7,11 +7,9 @@ This project's primary goal is to build a new set of tools that will allow the U
 
 To run the app:
 
-Git clone- git@github.com:yashkansal97/nyc-traffic-collisions-analysis.git
-CD into directory- nyc-traffic-collisions-analysis
-Start Flask app with app.py
-Visit localhost:5000 in a browser
-Implementation Details
+Git clone- git@github.com/adampaganini/Earthquake_Challenge.git
+CD into directory- Earthquake_Challenge
+Open index.html and follow port 5500 to local host in browser.
 
 Credits:
 Geological survey data
